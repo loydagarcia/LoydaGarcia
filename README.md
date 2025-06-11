@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hola! 👋 Soy Loyda Garcia
+💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen, donde me formé en pruebas de software tanto manuales como automatizadas. Soy detallista, proactiva y estoy emocionada por seguir desarrollándome profesionalmente en el mundo tech. 🔭Actualmente busco donde poner a prueba mis habilidades. ❤️Me encanta estar en constante aprendiaje y estar a la vanguardia con las nuevas tecnologias.
+
+Te muestro mi portafolio de proyectos en Triple-Ten.
+
 <!--
 **loydagarcia/LoydaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
