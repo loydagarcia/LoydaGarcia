@@ -1,9 +1,15 @@
 ## Hi there 👋
 
 ¡Hola! 👋 Soy Loyda Garcia
-💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen, donde me formé en pruebas de software tanto manuales como automatizadas. Soy detallista, proactiva y estoy emocionada por seguir desarrollándome profesionalmente en el mundo tech. 🔭Actualmente busco donde poner a prueba mis habilidades. ❤️Me encanta estar en constante aprendiaje y estar a la vanguardia con las nuevas tecnologias.
+🐞🔍Licenciada en informatica, despues de estar inactiva decidi da un paso mas.
+💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen,
+👩‍💻Me formé en pruebas de software tanto manuales como automatizadas.
+Soy detallista, proactiva y estoy emocionada por seguir desarrollándome profesionalmente en el mundo tech. 
+🔭Actualmente busco donde poner a prueba mis habilidades. 
+❤️Me encanta estar en constante aprendiaje y estar a la vanguardia con las nuevas tecnologias.
 
-Te muestro mi portafolio de proyectos en Triple-Ten. https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Te muestro mi portafolio de proyectos en Triple-Ten.   
+https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 🧰 Tecnologías y herramientas
 Pruebas Manuales: Casos de prueba, planes de prueba, reportes de bugs
 Herramientas: Jira, Postman, Git, GitHub
