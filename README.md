@@ -29,16 +29,6 @@ Metodologías: Agile (Scrum)
 [UrbanRoutes] – Documentación de pruebas manuales y reportes de bugs
 (Puedes agregar los enlaces a tus repos aquí)
 
-🔹 Proyecto #1 – Urban Routes (Web Testing) Realicé pruebas manuales para la plataforma web de Urban Routes, comparando diseños en Figma con la implementación real. Diseñé casos de prueba, validé funcionalidades nuevas y experiencias del usuario final y reporté más de 50 bugs en Jira JavaScript, Devtools, JIRA.
-
-🔹 Proyecto #2 – Urban Grocers (API Testing) Llevé a cabo pruebas de API enfocadas en la gestión de kits, entregas y carrito de compras para asegurar la estabilidad y funcionalidad de servicios clave. Analicé la documentación de la API para diseñar y ejecutar casos de prueba exhaustivos en Postman. Detecté y reporté errores en Jira, contribuyendo a la mejora continua del backend. Postman, JIRA, JSON, ApiDoc.
-
-🔹 Proyecto #3 – Urban Lunch (Mobile Testing) Realicé pruebas funcionales en la aplicación móvil nativa de Urban Lunch en Android, utilizando Android Studio y dispositivos reales. Apliqué buenas prácticas de testing móvil para garantizar la calidad del producto. Detecté y documenté errores en Jira, contribuyendo a mejorar la experiencia del usuario final. Android Studio, JIRA.
-
-🔹 Proyecto #4 – Urban Grocers (API Testing Automatizado) Desarrollé pruebas automatizadas en Python utilizando pytest y requests para validar funcionalidades críticas como la creación de usuarios y kits. Implementé pruebas diseñadas por el equipo de QA, enfrentando y resolviendo desafíos técnicos mientras aplicaba buenas prácticas de automatización para asegurar resultados fiables y la integridad del sistema. Python, Pytest, Requests.
-
-🔹 Proyecto #5 – Urban Routes (Web Testing Automatizado) Diseñé y desarrollé pruebas automatizadas para validar funcionalidades clave como la configuración de rutas, selección de tarifas, verificación de números telefónicos y métodos de pago. Implementé la arquitectura Page Object Model (POM), logrando un código limpio, modular y fácil de mantener, contribuyendo a una automatización escalable y eficiente. Python, Pytest, Selenium WebDriver.
-
 
 🧰 Tecnologías y herramientas
 Pruebas Manuales: Casos de prueba, planes de prueba, reportes de bugs
@@ -46,11 +36,6 @@ Herramientas: Jira, Postman, Git, GitHub
 Bases de Datos: SQL (consultas, joins, filtros)
 Automatización: Selenium WebDriver
 Metodologías: Agile (Scrum)
-💼 Proyectos del bootcamp
-[Urban Routes] – Pruebas automatizadas usando Selenium
-[Urban.Grousers] – Pruebas de endpoints REST con Postman
-[UrbanRoutes] – Documentación de pruebas manuales y reportes de bugs
-(Puedes agregar los enlaces a tus repos aquí)
 
 
 📫 Contacto
