@@ -16,11 +16,16 @@
 Te muestro mi portafolio de proyectos en Triple-Ten.   
 📄  https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-🧰 Tecnologías y herramientas
+🧰 Tecnologías y herramientas:
+
 Pruebas Manuales: Casos de prueba, planes de prueba, reportes de bugs.
+
 Herramientas: Jira, Postman, Git, GitHub.
+
 Bases de Datos: SQL (consultas, joins, filtros).
+
 Automatización: Selenium WebDriver.
+
 Metodologías: Agile (Scrum)
 
 
