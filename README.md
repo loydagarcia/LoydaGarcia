@@ -39,7 +39,6 @@ Metodologías: Agile (Scrum)
 
 🔹 Proyecto #5 – Urban Routes (Web Testing Automatizado) Diseñé y desarrollé pruebas automatizadas para validar funcionalidades clave como la configuración de rutas, selección de tarifas, verificación de números telefónicos y métodos de pago. Implementé la arquitectura Page Object Model (POM), logrando un código limpio, modular y fácil de mantener, contribuyendo a una automatización escalable y eficiente. Python, Pytest, Selenium WebDriver.
 
-🔹 Proyecto #6 – Decodificador de Texto (Desarrollo Frontend) Desarrollé una aplicación web interactiva que permite cifrar y descifrar mensajes de texto mediante reglas de sustitución de letras predefinidas. Utilicé HTML, CSS y JavaScript, aplicando una lógica eficiente con funciones personalizadas y algoritmos en JavaScript para procesar el texto. El proyecto incluye una interfaz intuitiva y es completamente funcional en navegadores modernos. HTML, CSS, JavaScript
 
 🧰 Tecnologías y herramientas
 Pruebas Manuales: Casos de prueba, planes de prueba, reportes de bugs
