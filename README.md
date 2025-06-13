@@ -2,14 +2,15 @@
 
 ¡Hola! 👋 Soy Loyda Garcia
 🐞🔍Licenciada en informatica, despues de estar inactiva decidi da un paso mas.
-💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen,
+💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen.
 👩‍💻Me formé en pruebas de software tanto manuales como automatizadas.
-Soy detallista, proactiva y estoy emocionada por seguir desarrollándome profesionalmente en el mundo tech. 
+ 📚Soy detallista, proactiva y estoy emocionada por seguir desarrollándome profesionalmente en el mundo tech. 
 🔭Actualmente busco donde poner a prueba mis habilidades. 
 ❤️Me encanta estar en constante aprendiaje y estar a la vanguardia con las nuevas tecnologias.
 
 Te muestro mi portafolio de proyectos en Triple-Ten.   
-https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+📄  https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 🧰 Tecnologías y herramientas
 Pruebas Manuales: Casos de prueba, planes de prueba, reportes de bugs
 Herramientas: Jira, Postman, Git, GitHub
@@ -47,8 +48,6 @@ Metodologías: Agile (Scrum)
 [UrbanRoutes] – Documentación de pruebas manuales y reportes de bugs
 (Puedes agregar los enlaces a tus repos aquí)
 
-💬 Sobre mí
-Soy mamá de 2, decidí reinventarme profesionalmente en el área de QA, ya que me apasiona la calidad, la tecnología y el aprendizaje continuo. Me encanta resolver problemas, trabajar en equipo y asegurarme de que todo funcione como debe ser.
 
 📫 Contacto
 Email: lgarciaarriaga@email.com
