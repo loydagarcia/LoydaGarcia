@@ -42,6 +42,7 @@ Metodologías: Agile (Scrum)
 
 Email: lgarciaarriaga@email.com
 LinkedIn: https://www.linkedin.com/in/loyda-angelines-garc%C3%ADa-arriaga-42346315a/?trk=opento_sprofile_topcard
+
 ¡Gracias por pasar por mi perfil! 😊
 
 <!--
