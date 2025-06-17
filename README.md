@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Soy Loyda Garcia</h1>
-<h3 align="center">Licenciada en informatica, despues de estar inactiva decidi da un paso mas.</h3>
+<h3 align="center">Licenciada en informatica, e desempeñado algunos cargos en el sector financiero, gestionando atencion personalizada a clientes en venta de productos y servicios bancarios.</h3>
 
 💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen.
 
