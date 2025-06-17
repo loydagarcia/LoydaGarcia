@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1 align="center">Hi 👋, me llamo Loyda Garcia</h1>
 ¡Hola! 👋 Soy Loyda Garcia
 🐞🔍Licenciada en informatica, despues de estar inactiva decidi da un paso mas.
 
