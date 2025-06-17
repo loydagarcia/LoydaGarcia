@@ -31,12 +31,15 @@ Metodologías: Agile (Scrum)
 
 💼 Proyectos del bootcamp
 [Urban Routes] – Pruebas automatizadas usando Selenium.
+
 [Urban.Grousers] – Pruebas de endpoints REST con Postman.
+
 [UrbanRoutes] – Documentación de pruebas manuales y reportes de bugs.
 (Puedes agregar los enlaces a tus repos aquí)
 
 
 📫 Contacto
+
 Email: lgarciaarriaga@email.com
 LinkedIn: https://www.linkedin.com/in/loyda-angelines-garc%C3%ADa-arriaga-42346315a/?trk=opento_sprofile_topcard
 ¡Gracias por pasar por mi perfil! 😊
