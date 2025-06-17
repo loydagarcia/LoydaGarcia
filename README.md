@@ -30,6 +30,7 @@ Metodologías: Agile (Scrum)
 
 
 💼 Proyectos del bootcamp
+
 [Urban Routes] – Pruebas automatizadas usando Selenium.
 
 [Urban.Grousers] – Pruebas de endpoints REST con Postman.
