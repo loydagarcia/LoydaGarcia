@@ -1,7 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, me llamo Loyda Garcia</h1>
-¡Hola! 👋 Soy Loyda Garcia
-🐞🔍Licenciada en informatica, despues de estar inactiva decidi da un paso mas.
+<h1 align="center">Hi 👋, Soy Loyda Garcia</h1>
+<h3 align="center">Licenciada en informatica, despues de estar inactiva decidi da un paso mas.</h3>
 
 💬Recientemente completé el Bootcamp de QA Engineering en TrippleTen.
 
