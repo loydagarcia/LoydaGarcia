@@ -36,7 +36,7 @@ Metodologías: Agile (Scrum)
 [Urban.Grousers] – Pruebas de endpoints REST con Postman.
 
 [UrbanRoutes] – Documentación de pruebas manuales y reportes de bugs.
-(Puedes agregar los enlaces a tus repos aquí)
+
 
 
 📫 Contacto
