@@ -12,6 +12,8 @@
 ❤️Me encanta estar en constante aprendiaje y estar a la vanguardia con las nuevas tecnologias.
 
 Te muestro mi portafolio de proyectos en Triple-Ten.   
+https://loydagarcia.github.io/mi-portfolio/
+
 📄  https://www.canva.com/design/DAGqHEXT9fE/cX2sI2zZJYmRc-u794fLPg/edit?utm_content=DAGqHEXT9fE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 🧰 Tecnologías y herramientas:
