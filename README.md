@@ -13,6 +13,7 @@
 
 Te muestro mi portafolio de proyectos en Triple-Ten.   
 https://loydagarcia.github.io/mi-portfolio/
+https://loydagarcia.my.canva.site/
 
 🧰 Tecnologías y herramientas:
 
